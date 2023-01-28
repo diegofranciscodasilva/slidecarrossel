@@ -1,2 +1,2 @@
-# slidecarrosel
-slides em carrosel
+# slidecarrossel
+slides em carrossel
